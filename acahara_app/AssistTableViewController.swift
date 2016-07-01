@@ -6,6 +6,10 @@
 //  Copyright © 2016年 RIho OKubo. All rights reserved.
 //
 
+
+
+
+
 import UIKit
 
 class AssistTableViewController: UIViewController,UITableViewDelegate,UITableViewDataSource, UIImagePickerControllerDelegate,UITextFieldDelegate {
